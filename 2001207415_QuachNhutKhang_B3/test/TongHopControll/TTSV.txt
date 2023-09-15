@@ -1,0 +1,4 @@
+﻿1, Nguyễn Thế Khang,TH2,23/08/2002,Nam,12312431,
+2, Trần Phi Hoàng,TH2,22/02/2001,Nu,1232134444,
+3, Trần Hữu Bằng,TH1,11/11/2000,Nam,2132145455,
+4, Quách Nhựt Dũng,TH1,13/03/2000,Nam,111111111,

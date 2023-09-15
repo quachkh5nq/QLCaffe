@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{DD4929A2-1F4B-4054-B73C-B8CAE2985008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TongHopControll", "TongHopControll\TongHopControll.csproj", "{029A4BC0-8B3F-43A4-BD0A-44D75A125D59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD4929A2-1F4B-4054-B73C-B8CAE2985008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4929A2-1F4B-4054-B73C-B8CAE2985008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4929A2-1F4B-4054-B73C-B8CAE2985008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4929A2-1F4B-4054-B73C-B8CAE2985008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029A4BC0-8B3F-43A4-BD0A-44D75A125D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029A4BC0-8B3F-43A4-BD0A-44D75A125D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029A4BC0-8B3F-43A4-BD0A-44D75A125D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029A4BC0-8B3F-43A4-BD0A-44D75A125D59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
